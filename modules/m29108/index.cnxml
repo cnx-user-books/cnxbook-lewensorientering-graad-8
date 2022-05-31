@@ -1,0 +1,128 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Die persoonlikhede van mense in verskillende beroepe</title>
+  <metadata>
+  <md:content-id>m29108</md:content-id><md:title>Die persoonlikhede van mense in verskillende beroepe</md:title>
+  <md:abstract/>
+  <md:uuid>1cd9ab4a-f2cd-4d97-85b6-3c1a717dd1a1</md:uuid>
+</metadata>
+
+<content>
+    <section id="id11557580">
+      <title>LEWENSORIËNTERING</title>
+      <para id="para-id11557580">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6026547">
+      <title>Graad 8</title>
+      <para id="para-id6026547">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5958563">
+      <title>SOSIALE ONTWIKKELING EN LOOPBAANORIËNTERING</title>
+      <para id="para-id5958563">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5990379">
+      <title>Module 29</title>
+      <para id="para-id5990379">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6492452">
+      <title>die persoonlikhede van die mense in verskillende beroepe</title>
+      <para id="id10013278">Aktiwiteit 1:</para>
+      <para id="id10013282">Om ’n beeld te vorm van die persoonlikhede van die mense in verskillende beroepe, asook die kennis en vaardighede waaroor hulle beskik</para>
+      <para id="id8695069">[LU 5.1] </para>
+      <list id="id6886504" list-type="bulleted">
+        <item>Voltooi die volgende tabel in terme van die beroepe in die vorige module.</item>
+      </list>
+      <table id="id6474091" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c2"/>
+              <entry namest="c3" nameend="c6"/>
+            </row>
+            <row>
+              <entry/>
+              <entry namest="c2" nameend="c3">Beroep</entry>
+              <entry>Soort Persoon</entry>
+              <entry>Sterk Vakke</entry>
+              <entry>Ander Sterk Punte</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry namest="c2" nameend="c3">1.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry namest="c2" nameend="c3">2.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry namest="c2" nameend="c3">3.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry namest="c2" nameend="c3">4.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry namest="c2" nameend="c3">5.</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id5312802">In groepe, lewer weer aan weer aan mekaar verslag oor wat julle uitgevind het. Dit is belangrik om op te let dat elke tipe beroep sekere vaardighede, kennis en persoonlikheidskenmerke nodig het.</para>
+    </section>
+    <section id="id5939961">
+      <title>Assessering</title>
+      <table id="id10051050" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>LU 5 </entry>
+            </row>
+            <row>
+              <entry>Oriëntering Ten Opsigte Van Die Wêreld Van WerkDie leerder sal in staat wees om ingeligte keuses oor verdere studie- en loopbaankeuses te maak.</entry>
+            </row>
+            <row>
+              <entry>Dit word bewys as die leerder:</entry>
+            </row>
+            <row>
+              <entry>5.1 loopbaan- en studieopsies en verbandhoudende vereistes kan identifiseer; en</entry>
+            </row>
+            <row>
+              <entry>5.2 loopbaan- en studiegeleenthede wat met eie belangstellings en aanleg verband hou, kan ondersoek.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+  </content>
+</document>
